@@ -103,10 +103,6 @@ The goal is that another state, or a school authority anywhere, can deploy this 
 
 ## Context
 
-Built and maintained by Timo Keller, IT advisor at the Pädagogisches Landesinstitut Rheinland-Pfalz, Digital Competence Centre, Regional Competence Centre Mitte.
+Built and maintained by me
 
 I am an IT consultant advising schools and school authorities, not a professional software engineer. Django, PostgreSQL and database design are things I learned building this. The domain knowledge, requirements and testing are mine; Claude does the implementation. This project exists because that combination works.
-
-## Contact
-
-⟪Kontaktweg eintragen oder Abschnitt löschen⟫
